@@ -1,0 +1,9 @@
+D:\C#\collections_practice_project\bin\Debug\netcoreapp1.1\collections_practice_project.deps.json
+D:\C#\collections_practice_project\bin\Debug\netcoreapp1.1\collections_practice_project.runtimeconfig.json
+D:\C#\collections_practice_project\bin\Debug\netcoreapp1.1\collections_practice_project.runtimeconfig.dev.json
+D:\C#\collections_practice_project\bin\Debug\netcoreapp1.1\collections_practice_project.dll
+D:\C#\collections_practice_project\bin\Debug\netcoreapp1.1\collections_practice_project.pdb
+D:\C#\collections_practice_project\obj\Debug\netcoreapp1.1\collections_practice_project.csproj.CoreCompileInputs.cache
+D:\C#\collections_practice_project\obj\Debug\netcoreapp1.1\collections_practice_project.AssemblyInfo.cs
+D:\C#\collections_practice_project\obj\Debug\netcoreapp1.1\collections_practice_project.dll
+D:\C#\collections_practice_project\obj\Debug\netcoreapp1.1\collections_practice_project.pdb

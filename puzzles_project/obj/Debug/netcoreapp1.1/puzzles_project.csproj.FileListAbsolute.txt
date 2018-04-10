@@ -1,0 +1,9 @@
+D:\C#\puzzles_project\bin\Debug\netcoreapp1.1\puzzles_project.deps.json
+D:\C#\puzzles_project\bin\Debug\netcoreapp1.1\puzzles_project.runtimeconfig.json
+D:\C#\puzzles_project\bin\Debug\netcoreapp1.1\puzzles_project.runtimeconfig.dev.json
+D:\C#\puzzles_project\bin\Debug\netcoreapp1.1\puzzles_project.dll
+D:\C#\puzzles_project\bin\Debug\netcoreapp1.1\puzzles_project.pdb
+D:\C#\puzzles_project\obj\Debug\netcoreapp1.1\puzzles_project.csproj.CoreCompileInputs.cache
+D:\C#\puzzles_project\obj\Debug\netcoreapp1.1\puzzles_project.AssemblyInfo.cs
+D:\C#\puzzles_project\obj\Debug\netcoreapp1.1\puzzles_project.dll
+D:\C#\puzzles_project\obj\Debug\netcoreapp1.1\puzzles_project.pdb

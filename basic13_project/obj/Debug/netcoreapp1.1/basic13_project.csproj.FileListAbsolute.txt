@@ -1,0 +1,9 @@
+D:\C#\basic13_project\bin\Debug\netcoreapp1.1\basic13_project.deps.json
+D:\C#\basic13_project\bin\Debug\netcoreapp1.1\basic13_project.runtimeconfig.json
+D:\C#\basic13_project\bin\Debug\netcoreapp1.1\basic13_project.runtimeconfig.dev.json
+D:\C#\basic13_project\bin\Debug\netcoreapp1.1\basic13_project.dll
+D:\C#\basic13_project\bin\Debug\netcoreapp1.1\basic13_project.pdb
+D:\C#\basic13_project\obj\Debug\netcoreapp1.1\basic13_project.csproj.CoreCompileInputs.cache
+D:\C#\basic13_project\obj\Debug\netcoreapp1.1\basic13_project.AssemblyInfo.cs
+D:\C#\basic13_project\obj\Debug\netcoreapp1.1\basic13_project.dll
+D:\C#\basic13_project\obj\Debug\netcoreapp1.1\basic13_project.pdb

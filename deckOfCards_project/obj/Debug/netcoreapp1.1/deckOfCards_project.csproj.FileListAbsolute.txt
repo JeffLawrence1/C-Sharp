@@ -1,0 +1,9 @@
+D:\C#\deckOfCards_project\bin\Debug\netcoreapp1.1\deckOfCards_project.deps.json
+D:\C#\deckOfCards_project\bin\Debug\netcoreapp1.1\deckOfCards_project.runtimeconfig.json
+D:\C#\deckOfCards_project\bin\Debug\netcoreapp1.1\deckOfCards_project.runtimeconfig.dev.json
+D:\C#\deckOfCards_project\bin\Debug\netcoreapp1.1\deckOfCards_project.dll
+D:\C#\deckOfCards_project\bin\Debug\netcoreapp1.1\deckOfCards_project.pdb
+D:\C#\deckOfCards_project\obj\Debug\netcoreapp1.1\deckOfCards_project.csproj.CoreCompileInputs.cache
+D:\C#\deckOfCards_project\obj\Debug\netcoreapp1.1\deckOfCards_project.AssemblyInfo.cs
+D:\C#\deckOfCards_project\obj\Debug\netcoreapp1.1\deckOfCards_project.dll
+D:\C#\deckOfCards_project\obj\Debug\netcoreapp1.1\deckOfCards_project.pdb

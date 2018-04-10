@@ -1,0 +1,9 @@
+D:\C#\crud_project\bin\Debug\netcoreapp1.1\crud_project.deps.json
+D:\C#\crud_project\bin\Debug\netcoreapp1.1\crud_project.runtimeconfig.json
+D:\C#\crud_project\bin\Debug\netcoreapp1.1\crud_project.runtimeconfig.dev.json
+D:\C#\crud_project\bin\Debug\netcoreapp1.1\crud_project.dll
+D:\C#\crud_project\bin\Debug\netcoreapp1.1\crud_project.pdb
+D:\C#\crud_project\obj\Debug\netcoreapp1.1\crud_project.csproj.CoreCompileInputs.cache
+D:\C#\crud_project\obj\Debug\netcoreapp1.1\crud_project.AssemblyInfo.cs
+D:\C#\crud_project\obj\Debug\netcoreapp1.1\crud_project.dll
+D:\C#\crud_project\obj\Debug\netcoreapp1.1\crud_project.pdb

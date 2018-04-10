@@ -1,0 +1,9 @@
+D:\C#\parent_project\bin\Debug\netcoreapp1.1\parent_project.deps.json
+D:\C#\parent_project\bin\Debug\netcoreapp1.1\parent_project.runtimeconfig.json
+D:\C#\parent_project\bin\Debug\netcoreapp1.1\parent_project.runtimeconfig.dev.json
+D:\C#\parent_project\bin\Debug\netcoreapp1.1\parent_project.dll
+D:\C#\parent_project\bin\Debug\netcoreapp1.1\parent_project.pdb
+D:\C#\parent_project\obj\Debug\netcoreapp1.1\parent_project.csproj.CoreCompileInputs.cache
+D:\C#\parent_project\obj\Debug\netcoreapp1.1\parent_project.AssemblyInfo.cs
+D:\C#\parent_project\obj\Debug\netcoreapp1.1\parent_project.dll
+D:\C#\parent_project\obj\Debug\netcoreapp1.1\parent_project.pdb

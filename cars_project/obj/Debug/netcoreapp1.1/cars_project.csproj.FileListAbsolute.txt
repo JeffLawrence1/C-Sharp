@@ -1,0 +1,9 @@
+D:\C#\cars_project\bin\Debug\netcoreapp1.1\cars_project.deps.json
+D:\C#\cars_project\bin\Debug\netcoreapp1.1\cars_project.runtimeconfig.json
+D:\C#\cars_project\bin\Debug\netcoreapp1.1\cars_project.runtimeconfig.dev.json
+D:\C#\cars_project\bin\Debug\netcoreapp1.1\cars_project.dll
+D:\C#\cars_project\bin\Debug\netcoreapp1.1\cars_project.pdb
+D:\C#\cars_project\obj\Debug\netcoreapp1.1\cars_project.csproj.CoreCompileInputs.cache
+D:\C#\cars_project\obj\Debug\netcoreapp1.1\cars_project.AssemblyInfo.cs
+D:\C#\cars_project\obj\Debug\netcoreapp1.1\cars_project.dll
+D:\C#\cars_project\obj\Debug\netcoreapp1.1\cars_project.pdb

@@ -1,0 +1,9 @@
+D:\C#\fundamentals_1\bin\Debug\netcoreapp1.1\fundamentals_1.deps.json
+D:\C#\fundamentals_1\bin\Debug\netcoreapp1.1\fundamentals_1.runtimeconfig.json
+D:\C#\fundamentals_1\bin\Debug\netcoreapp1.1\fundamentals_1.runtimeconfig.dev.json
+D:\C#\fundamentals_1\bin\Debug\netcoreapp1.1\fundamentals_1.dll
+D:\C#\fundamentals_1\bin\Debug\netcoreapp1.1\fundamentals_1.pdb
+D:\C#\fundamentals_1\obj\Debug\netcoreapp1.1\fundamentals_1.csproj.CoreCompileInputs.cache
+D:\C#\fundamentals_1\obj\Debug\netcoreapp1.1\fundamentals_1.AssemblyInfo.cs
+D:\C#\fundamentals_1\obj\Debug\netcoreapp1.1\fundamentals_1.dll
+D:\C#\fundamentals_1\obj\Debug\netcoreapp1.1\fundamentals_1.pdb

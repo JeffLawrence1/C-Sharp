@@ -1,0 +1,9 @@
+D:\C#\crazy_eights_project\bin\Debug\netcoreapp1.1\crazy_eights_project.deps.json
+D:\C#\crazy_eights_project\bin\Debug\netcoreapp1.1\crazy_eights_project.runtimeconfig.json
+D:\C#\crazy_eights_project\bin\Debug\netcoreapp1.1\crazy_eights_project.runtimeconfig.dev.json
+D:\C#\crazy_eights_project\bin\Debug\netcoreapp1.1\crazy_eights_project.dll
+D:\C#\crazy_eights_project\bin\Debug\netcoreapp1.1\crazy_eights_project.pdb
+D:\C#\crazy_eights_project\obj\Debug\netcoreapp1.1\crazy_eights_project.csproj.CoreCompileInputs.cache
+D:\C#\crazy_eights_project\obj\Debug\netcoreapp1.1\crazy_eights_project.AssemblyInfo.cs
+D:\C#\crazy_eights_project\obj\Debug\netcoreapp1.1\crazy_eights_project.dll
+D:\C#\crazy_eights_project\obj\Debug\netcoreapp1.1\crazy_eights_project.pdb

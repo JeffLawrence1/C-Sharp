@@ -1,0 +1,9 @@
+D:\C#\wizNinSam_project\bin\Debug\netcoreapp1.1\wizNinSam_project.deps.json
+D:\C#\wizNinSam_project\bin\Debug\netcoreapp1.1\wizNinSam_project.runtimeconfig.json
+D:\C#\wizNinSam_project\bin\Debug\netcoreapp1.1\wizNinSam_project.runtimeconfig.dev.json
+D:\C#\wizNinSam_project\bin\Debug\netcoreapp1.1\wizNinSam_project.dll
+D:\C#\wizNinSam_project\bin\Debug\netcoreapp1.1\wizNinSam_project.pdb
+D:\C#\wizNinSam_project\obj\Debug\netcoreapp1.1\wizNinSam_project.csproj.CoreCompileInputs.cache
+D:\C#\wizNinSam_project\obj\Debug\netcoreapp1.1\wizNinSam_project.AssemblyInfo.cs
+D:\C#\wizNinSam_project\obj\Debug\netcoreapp1.1\wizNinSam_project.dll
+D:\C#\wizNinSam_project\obj\Debug\netcoreapp1.1\wizNinSam_project.pdb
